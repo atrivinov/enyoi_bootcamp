@@ -42,7 +42,7 @@ edad = edad + 1  # edad ahora es 26
 let edad = 25;
 
 // Asignando una cadena de texto a la variable 'nombre'
-let nombre = "Ana";
+const nombre = "Ana";
 
 // Cambiando el valor de una variable
 edad = edad + 1;  // edad ahora es 26
