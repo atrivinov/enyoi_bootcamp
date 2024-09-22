@@ -8,6 +8,7 @@ Aquí les iré dejando algunos temas importante que pueden ir leyendo para ir m�
 - ***Fundamentos de ingeniería de software:*** Curso gratuito de [Platzi](https://platzi.com/cursos/ingenieria/) donde entenderemos conceptos vitales de cómo suceden tantas cosas en tecnología, recuerda que nada sucede por arte de magia, hay un porqué en todo y este curso es perfecto para entender cada interfaz en este gran mundo que se llama ***tecnolog+ia***.
 - ***Programación básica:*** Curso gratuito de [Platzi](https://platzi.com/cursos/programacion-basica/), es un curso de fundamentos de programación en el que irás aprendiendo conceptos básicos de programación y terminarás con un proyecto muy interesante realizado de la mano de las clases del curso.
 - ***Curso de terminal y línea de comandos:*** La terminal de nuestro sistema es una herramienta fundamental para un desarrollador de software, debes ir relacionandote con esta herramienta y en este [video gratuito](https://www.youtube.com/watch?v=Pi0KVD4xTbc&ab_channel=jonmircha) podrás entender qué es y algunos comandos básicos.
+- ***Curso de git y github:*** Un [curso gratuito por youtube](https://www.youtube.com/watch?v=3GymExBkKjE&ab_channel=MoureDevbyBraisMoure) en el cual aprenderás los conceptos fundamentales de git y github, herramientas de versionado de código que todo desarrollador de software debe saber utilizar.
 
 
 ## 2. Lecturas recomendadas
