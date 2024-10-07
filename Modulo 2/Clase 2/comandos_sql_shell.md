@@ -19,7 +19,7 @@
 ### CREAR UNA BASE DE DATOS
 
 ```sql
-
+CREATE DATABASE nombre_db;
 ```
 
 ### CREAR UNA TABLA
@@ -38,25 +38,4 @@ CREATE TABLE empleados (
 ```sql
 INSERT INTO empleados (id_empleado, nombre, edad, cargo)
 VALUES (1, 'Ana Pérez', 28, 'Desarrolladora');
-```
-
-la sala de abordaje
-```sql
-
-```
-
-```sql
-
-```
-
-```sql
-
-```
-
-```sql
-
-```
-
-```sql
-
 ```
